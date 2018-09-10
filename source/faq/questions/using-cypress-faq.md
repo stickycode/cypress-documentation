@@ -542,3 +542,5 @@ That being said, we use Cypress to test our own Desktop app's front end - by stu
 - Search existing {% url "open issues" https://github.com/cypress-io/cypress/issues %}, it may already be reported!
 - Update Cypress. Your issue may have {% url "already been fixed" changelog %}.
 - {% open_an_issue %}. Your best chance of getting a bug looked at quickly is to provide a repository with a reproducible bug that can be cloned and run.
+
+## {% fa fa-angle-right %} How do I integrate with GitHub Enterprise
